@@ -1,3 +1,7 @@
+# Delphinus
+
+[![Descargar APK](https://img.shields.io/badge/Descargar_APK-v1.0.4-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/NotAYeen/delphinus/releases/download/1.0.4/Delphinus.apk)
+
 Delphinus es una herramienta integral y elegante desarrollada en Flutter, diseñada específicamente para diseñadores de moda, sastres y ateliers que buscan llevar la gestión de su flujo de trabajo al siguiente nivel. Con un diseño premium (soporte total para Modo Oscuro y Claro) y una interfaz intuitiva, Delphinus centraliza desde la inspiración hasta la entrega del proyecto final.
 
 ✨ Características Principales
