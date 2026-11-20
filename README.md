@@ -1,43 +1,45 @@
 # Delphinus
 
-[![Descargar APK](https://img.shields.io/badge/Descargar_APK-v1.0.4-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/NotAYeen/delphinus/releases/download/1.0.4/Delphinus.apk)
+[![Descargar APK](https://img.shields.io/badge/Descargar_APK-v1.2.0-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/NotAYeen/delphinus/releases/download/1.2.0/Delphinus.apk)
 
-Delphinus es una herramienta integral y elegante desarrollada en Flutter, diseñada específicamente para diseñadores de moda, sastres y ateliers que buscan llevar la gestión de su flujo de trabajo al siguiente nivel. Con un diseño premium (soporte total para Modo Oscuro y Claro) y una interfaz intuitiva, Delphinus centraliza desde la inspiración hasta la entrega del proyecto final.
+Delphinus es una herramienta integral y elegante desarrollada en Flutter, diseñada específicamente para diseñadores de moda, sastres y ateliers que buscan llevar la gestión de su flujo de trabajo al siguiente nivel. Con un diseño intuitivo con soporte total para Modo Oscuro y Claro, Delphinus centraliza desde la inspiración hasta la entrega del proyecto final.
 
-✨ Características Principales
+## Características Principales
 
-📐 Gestión Avanzada de Clientes y Medidas
-Fichas Técnicas Detalladas: Crea perfiles por cliente con su información, tipo de trabajo y una tabla de medidas totalmente personalizable.
-Perfiles de Medida: Guarda "plantillas" de medidas estandarizadas (ej. tallas base) para aplicarlas rápidamente a nuevos clientes.
-Importación Inteligente: Agrega contactos directamente desde la agenda de tu teléfono.
-Comunicación Directa: Llama o envía mensajes por WhatsApp a tus clientes con un solo toque desde la app.
-Exportación Profesional: Exporta la tabla de medidas de cualquier cliente a un archivo Excel (.xlsx) para imprimir o compartir.
+### Gestión Avanzada de Clientes y Medidas
+- Fichas Técnicas Detalladas: Perfiles por cliente con información de contacto, tipo de trabajo y tabla de medidas personalizable.
+- Comparador Histórico de Medidas: Registro cronológico de tomas de medidas con cálculo automático de variaciones (deltas) respecto a tomas anteriores.
+- Perfiles de Medida: Plantillas estandarizadas aplicables a nuevos clientes con un solo toque.
+- Importación de Contactos: Agrega clientes directamente desde la libreta de direcciones del dispositivo.
+- Avisos Rápidos por WhatsApp: Envío de notificaciones directas mediante plantillas para pruebas de vestuario, prendas listas y citas.
+- Exportación Profesional: Exporta la tabla de medidas a hojas de cálculo (.xlsx) o genera recibos en PDF.
 
-💸 Cotizador Inteligente
-Calcula presupuestos de forma precisa sumando costos de Materiales, Patrones Base y Transformaciones.
-Ajusta tu porcentaje de ganancia neta en tiempo real.
-Genera un recibo/presupuesto elegante en formato de texto y compártelo instantáneamente por WhatsApp o cualquier otra red social.
+### Cotizador Inteligente
+- Calcula presupuestos sumando materiales, patrones base y transformaciones.
+- Ajuste de porcentaje de ganancia en tiempo real.
+- Generación de recibos formales en PDF o texto compartibles por mensajería.
 
-🎨 Inspiración y Moodboard
-Crea tu propio muro de inspiración subiendo imágenes de referencia.
-Análisis de Color: Toca cualquier imagen para extraer automáticamente su paleta de colores (colores dominantes, vibrantes y tenues), ideal para planear paletas textiles.
-Visor de imágenes a pantalla completa con zoom táctil y gestos fluidos.
+### Inspiración y Moodboard
+- Muro visual de referencias textiles y prendas.
+- Análisis de Color: Extracción automática de paletas dominantes y de contraste.
+- Visor de imágenes a pantalla completa con zoom táctil y navegación fluida.
 
-👗 Portafolio (Lookbook)
-Organiza tus diseños terminados en una cuadrícula (grid) interactiva y reordenable.
-Generación de Catálogos: Selecciona múltiples prendas de tu portafolio y expórtalas como un catálogo en formato PDF con calidad profesional.
+### Portafolio (Lookbook)
+- Catálogo visual de prendas terminadas con rejilla interactiva.
+- Procesamiento de imágenes optimizado en segundo plano para máxima fluidez.
+- Exportación de múltiples diseños a catálogo PDF de presentación.
 
-🏠 Panel de Control (Dashboard)
-Resumen rápido de tus "Proyectos Activos".
+### Panel de Control (Dashboard)
+- Proyectos activos y estado del taller.
+- Lista de Compras: Registro y seguimiento de insumos, telas y mercería pendientes.
+- Notas Rápidas: Bloque de notas autoexpansible para anotaciones del taller.
 
-Sección de Notas Rápidas para no olvidar ningún detalle en tu mesa de trabajo.
-Transiciones fluidas y un hermoso diseño minimalista e intuitivo.
+### Accesibilidad y Experiencia Visual
+- Conformidad con estándares WCAG 2.1 (AA/AAA) en contraste de textos, controles y estados.
+- Paleta de color personalizable por la usuaria con cálculo dinámico de legibilidad.
 
-🛠️ Tecnología y Privacidad
-Desarrollado en: Flutter & Dart.
-Privacidad al máximo: La aplicación utiliza almacenamiento local (SharedPreferences), lo que significa que funciona 100% offline. Tus datos, medidas, fotografías y notas se quedan exclusivamente en tu dispositivo.
+### Tecnología y Privacidad
+- Desarrollado con Flutter y Dart.
+- 100% Offline: Almacenamiento local seguro en el dispositivo. Sin rastreo, sin cuentas externas y con respaldo completo exportable en archivo ZIP.
 
-
-
-
-Full Changelog: https://github.com/NotAYeen/delphinus/commits/1.0.4
+[Ver notas completas de la versión 1.2.0](https://github.com/NotAYeen/delphinus/releases/tag/1.2.0)
